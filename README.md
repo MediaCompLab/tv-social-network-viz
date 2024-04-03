@@ -16,6 +16,11 @@ config mysql in config.py<br>
 `npm install`<br>
 `npm run dev`<br>
 
+**plans:**<br>
+-[ ] optimization on graph processing
+-[ ] picture download
+-[ ] graph json download
+
 **screenshots:**<br>
 ![Screenshot 2024-04-03 092257](https://github.com/angushushu/tv-social-network-viz/assets/23127549/5ed087a8-444f-4625-a8a7-687bf81b929a)
 ![Screenshot 2024-04-03 092205](https://github.com/angushushu/tv-social-network-viz/assets/23127549/87632bce-c7fc-409e-a0a0-2c41a1b27d66)
